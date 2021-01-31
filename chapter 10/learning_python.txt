@@ -1,5 +1,0 @@
-In Python you can manipulate strings.
-In Python you can store data in dictionaries, sets, and lists.
-In Python you can create functions to organize code into blocks, as well as create reusable code.
-In Python you can create classes for protypes of objects with similar characteristics.
-
