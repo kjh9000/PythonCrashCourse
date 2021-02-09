@@ -10,4 +10,4 @@ new_users = ['heckyl', ' Moe', 'BOB', 'shemp', 'alice']
 
 for i in new_users:
     if i.lower() in current_users:
-        print('Sorry, but the name ', i, ' is taken. Please choose a different name.')
+        print('Sorry, but the name ' + i + ' is taken. Please choose a different name.')
