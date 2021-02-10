@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-"""writ a loop that prompts the user to enter pizza toppings until they enter 'quit'. as they enter each topping, print a message say you'll add that topping
+"""write a loop that prompts the user to enter pizza toppings until they enter 'quit'. as they enter each topping, print a message say you'll add that topping
 """
 
 while True:
